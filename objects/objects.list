@@ -1,0 +1,18 @@
+1		Fluttershy	Fluttershy.png
+2		Rarity		Rarity.png
+3		Applejack	Applejack.png
+4		Dash			Dash.png
+5		Pinkie		Pinkie.png
+6		Spike			Spike.png
+7		Door			door1.png
+8		Cake			cake2.png
+9		Shining		Shining.png
+1001	box1			crate.png			false	true	true
+1002	pony			player.png			false	true	true
+1003	tree			tree2x3_1.png		false	true	false
+1004	tree			tree2x3_2.png		false	true	false
+1005	tree			tree2x3_3.png		false	true	false
+1006	tree			tree2x3_4.png		false	true	false
+1007	tree			tree2x3_5.png		false	true	false
+1008	tree			tree2x3_6.png		false	true	false
+1009	cake			cake1.png			false true	true

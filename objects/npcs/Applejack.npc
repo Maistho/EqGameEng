@@ -1,0 +1,41 @@
+0
+I:6:6
+Ain't it gon' be nice? Makin' the cake for so many guests.
+1 I don't know...
+
+D
+Help yourself to some more apple pie!
+[break] Thanks AJ!
+---
+
+1
+M:10:10
+Why the long face sugarcube?
+2 I'm just thinking of Shining Armor. He'll probably not have any time for me at all now.
+
+D
+Aw, lighten up pal! I don't think it'll be half as bad as you think.
+[break] We'll see...
+---
+
+2
+M:10:11 I:8:1
+What do you think?
+3 It's great!
+[break] I'm not sure yet.
+
+M:10:11
+Here, try some of the cake and tell me what you think.
+[break] I'm pretty full, but thanks.
+[break] Ok.
+
+D
+Don't say that, you're his sister after all. He'll take time.
+[break] Enough time to tell me he's getting married?
+---
+
+3
+D
+Glad to hear it Twi!
+[break] See you later Applejack.
+---

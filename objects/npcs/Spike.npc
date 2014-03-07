@@ -1,0 +1,61 @@
+0
+D
+Let me just... *burps up a letter*
+1 What does it say?
+---
+
+1
+D
+Let's see, blah blah wedding... Blah blah help.
+2 Go on
+---
+
+2
+D
+Celestia wants you all to help with the wedding in Canterlot!
+3 Great! But... who is getting married?
+---
+
+3
+D
+Oh, I probably should've shown you this first... *shows another letter*
+4 What does it say?
+---
+
+4
+D
+Let's see... It's a wedding invitation to all of you!
+5 So who is getting married?
+---
+
+5
+D
+It says it's Princess Mi Amore Cadenza and... Your brother, Shining Armor!
+6 *gasp*
+---
+
+6
+I:1:1 I:2:1 I:3:1 I:4:1 I:5:1 M:0:0
+Well, we'd better get moving!
+[10,10,9,10] You're right, let's go.
+
+M:10:10
+So, you all get to help with the fancy wedding...
+7 ...
+
+D
+What's the problem Twilight?
+[break] *sourly* He's my brother. He should've told me in person.
+---
+
+7
+D
+But I get to take care of the bachelor party!
+8 ...
+---
+
+8
+D
+Just one question: what is a bachelor party?
+[break] ...
+---

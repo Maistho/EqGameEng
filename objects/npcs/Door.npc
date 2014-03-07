@@ -1,0 +1,10 @@
+0
+M:10:10 I:3:2
+This door leads out. You should probably try finding your brother.
+[10,11,6,13] *leave train*
+[break] *stay inside*
+
+D
+The train is moving. Exiting now would not be wise.
+[break] *stay inside*
+---
